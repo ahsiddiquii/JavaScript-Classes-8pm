@@ -107,11 +107,24 @@
 // let students = ["danial", "Mudasir", "Salman"];
 // let favFruits = ["Mango", "Apple", "Peach", "Orange"]
 // let dataTypes = ["String", 256, true, false, null, undefined];
-// let array = ["Abdul Haseeb", 25, false];
+let array = ["Abdul Haseeb", 25, false];
 // console.log(array);
 
 // let array2 = [];
 // console.log(array2);
+
+// 2 Objects:
+
+// In object we store data in Key value pair...
+let myObject = {
+name : "Abdul haseeb",
+age : 0,
+gender: "male",
+isLoggedIn : false,
+favFruits: ["mango", "apple, peach", "orange"]
+}
+
+// let str = "regdgddgdf"
 
 
 
