@@ -1,0 +1,20 @@
+Introduction to JavaScript:
+What is JavaScript?
+Ways OR Methods of Running JS? What is Node JS? How does JS run in the browser and how does Node JS run it? Is there another way to run JS in the terminal without using NodeJs?
+What is an IDE?
+
+Basics of JavaScript:
+Part I:
+
+What is console.log( ) in JavaScript?
+
+Variables & Constants:
+Ways / Keywords for creating and assigning Variables and Constant.
+Assigning Operator.
+Variables / Constants naming convention.
+ 
+Data Types in JavaScript:
+Primitive Types (Number, String, Boolean, Null, Undefined, Symbol, BigInt)
+Non-Primitives / Reference Type (Objects, Arrays, Functions)
+
+Data Type Detection of Variables/constants.

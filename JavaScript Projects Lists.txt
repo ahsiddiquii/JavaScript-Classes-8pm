@@ -1,0 +1,11 @@
+
+1- BMI Calculator.
+2- Keyboard Keypress detector.
+3- Random Color Generator.
+4- Counter App.
+5- To Do App.
+6- Signup and Login Form (With Forget Password Functionality).
+7- Dropdown Searcher for E-commerce.
+8- Weather App.
+9- First Game.
+
